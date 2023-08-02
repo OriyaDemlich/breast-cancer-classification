@@ -18,6 +18,8 @@ Color Distribution Analysis (optional): If desired, use the "perform_images" sec
 
 Model Training: Utilize the file in the "final_model" section to train the neural network model using the Keras package on your prepared dataset.
 
+Important Note: Before using the links to the models, please be aware that fine-tuning didn't improve the results for the important category (category 1), which represents the presence of cancer cells. As a result, we recommend using the model before fine-tuning.
+
 # **Links to the data and the models:**
 data source:
 https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images
